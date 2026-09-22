@@ -2,7 +2,9 @@ import React from 'react'
 
 const Credits = () => {
   return (
-    <div>Credits</div>
+    <div>
+    Credits
+    </div>
   )
 }
 
